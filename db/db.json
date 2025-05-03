@@ -72,41 +72,7 @@
             "active": true,
             "preSale": true
         },
-        {
-            "id": "67ef93646f500c02f5d91a56",
-            "name": "Marakuda",
-            "description": "Başçının oğlu Marakuda əsl döyüşçü olmalı idi, lakin o, ov etməyi bacarmırdı və atasını məyus edirdi. Marakuda təkbaşına meşəyə yollanır və orada müqəddəs Tink quşunu tapır. Tink ona heyvanlar və quşların dilini anlama qabiliyyəti bəxş edir. Marakuda və Tink şərəflə kəndə qayıdırlar. Lakin oğlan bilmir ki, ənənəyə görə müqəddəs quş tayfanın rifahı üçün qurban verilməlidir.",
-            "iticketLink": null,
-            "country": "Rusiya",
-            "director": "Viktor Qluxuşin",
-            "actors": [
-                "Proxor Çexovskoy",
-                "Eliza Martirosova"
-            ],
-            "genres": [
-                {
-                    "id": "67ef925f6f500c02f5d91a21",
-                    "title": "Cizgi filmi"
-                }
-            ],
-            "movieId": 0,
-            "duration": 90,
-            "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
-            "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
-            "year": 2025,
-            "ageLimit": "SIX",
-            "languages": [
-                "RU"
-            ],
-            "image": "1743753997523_Screenshot_2025-04-04_120117.png",
-            "subtitles": [
-                "AZ"
-            ],
-            "trailerUrl": "1743754057626____.____1_.mp4",
-            "youtubeUrl": "https://www.youtube.com/watch?v=SqI5s9FpyDY",
-            "active": true,
-            "preSale": true
-        },
+        
         {
             "id": "67ef8e906f500c02f5d9181f",
             "name": "İldırımsaçanlar",
